@@ -6,8 +6,8 @@
 	{
 		"user": "Developer",
 		"key": "ZGQ4OGU2Y2E5ZTQ3ZWZlYTM0ZjI5NmU1Y2ExNzdjNTg=",
-		"actived": false,
-		"description": "Bạn đã vi phạm các điều khoản và điều kiện sử dụng của chúng tôi!",
+		"actived": true,
+		"description": "",
 		"timestamp": "27/03/2021 22:58:37"
 	}
 ]
