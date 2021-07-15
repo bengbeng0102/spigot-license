@@ -1,7 +1,7 @@
 [
 	{
 		"author": "",
-		"version": "1.6.0",
+		"version": "1.6.1",
 		"global": false
 	},
 	{
@@ -14,7 +14,7 @@
 	{
 		"user": "xJBpbmggSOG7r3UgS2nhu4du",
 		"key": "YzhiYjFhYjI4NzIwYWQzYTU4N2U5NDEzNWU5OGJhY2U=",
-		"actived": true,
+		"actived": false,
 		"description": "",
 		"timestamp": "27/05/2021 21:36:33"
 	},
